@@ -106,6 +106,6 @@ urllib3==1.22
 wcwidth==0.1.7
 webargs==3.0.1
 websocket-client==0.48.0
-Werkzeug==0.14.1
+Werkzeug==0.15.3
 WTForms==2.2.1
 zope.interface==4.5.0
